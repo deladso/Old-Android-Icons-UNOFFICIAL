@@ -9,3 +9,9 @@ an unofficial fork from a Android ICS Icon Pack from r/OldAndroid1.
 
 **Old Android Icons FORK** is an unofficial fork I made from a **r/OldAndroid1** post by **u/Technical-Ruin2352** (original post and last update as of writing https://www.reddit.com/r/OldAndroid1/s/aGWroZbzFb). It hasn't been updated in almost 20 days (also as of writing) so I decided to take it into my own hands.
 This icon pack was made on the same app as the original, **Alembicons** on F-Droid (https://github.com/javulticat/Alembicons).
+
+# 📝Update Log
+
+**First Release**
+
+-  Added +27 icons to the pack.
