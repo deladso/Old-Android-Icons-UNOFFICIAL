@@ -13,7 +13,9 @@ This icon pack was made on the same app as the original, **Alembicons** on F-Dro
 # 📃Credits
 
 HKtito for 4.1/4.4 app icons (Deviantart: https://www.deviantart.com/hktorito/art/Android-4-0-4-1-4-4-Icons-924738288)
+
 u/Technical-Ruin2352 for the old android icon pack (Reddit: https://www.reddit.com/r/OldAndroid1/comments/1ut3jmu/old_android_icon_pack_update_77_icons/)
+
 javulticat for creating Alembicons (https://github.com/javulticat/Alembicons)
 
 
